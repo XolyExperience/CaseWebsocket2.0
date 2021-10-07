@@ -1,11 +1,9 @@
-import logo from "./logo.svg";
-
 function App() {
-  return (
-    <div className="App">
-      <img src={logo} className="App-logo" alt="logo" />
-    </div>
-  );
+    return (
+        <div className="App">
+            <p>Hello</p>
+        </div>
+    );
 }
 
 export default App;
